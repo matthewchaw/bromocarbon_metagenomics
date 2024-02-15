@@ -9,7 +9,6 @@ import math
 import pdb
 import sys
 import timeit
-np.set_printoptions(suppress=True)
 
 
 def getFeatures(file):
