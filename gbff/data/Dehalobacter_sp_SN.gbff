@@ -1,0 +1,72 @@
+LOCUS       KX344907                1371 bp    DNA     linear   BCT 01-NOV-2016
+DEFINITION  Dehalobacter sp. SN ThmA gene, complete cds.
+ACCESSION   KX344907
+VERSION     KX344907.1
+KEYWORDS    .
+SOURCE      Dehalobacter sp. SN
+  ORGANISM  Dehalobacter sp. SN
+            Bacteria; Bacillota; Clostridia; Eubacteriales;
+            Desulfitobacteriaceae; Dehalobacter.
+REFERENCE   1  (bases 1 to 1371)
+  AUTHORS   Zhao,S. and He,J.
+  TITLE     Microbial reductive dehalogenation of trihalomethanes by a
+            Dehalobacter containing co-culture
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1371)
+  AUTHORS   Zhao,S. and He,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUN-2016) Civial and Environmental Engineering,
+            National University of Singapore, T-Lab building, 5A Engineering
+            Drive 1, Singapore, Singapore 117411, Singapore
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1371
+                     /organism="Dehalobacter sp. SN"
+                     /mol_type="genomic DNA"
+                     /isolation_source="mangrove sediment"
+                     /db_xref="taxon:1855958"
+                     /country="Singapore"
+     CDS             1..1371
+                     /EC_number="1.97.1.8"
+                     /note="chloroform and bromoform reductive dehalogenase"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ThmA"
+                     /protein_id="ANI21407.1"
+                     /translation="MDKEKSNNDKPATKINRRRFLKFGAGASSGIAIAAAATALGGKS
+                     LIDPKQVYAGTVKELDELPFNIPADYKPFTNQRNIFGQALLGVPEPLALVERFDEVRW
+                     NGWQTDGSPGLTVLDGAAARASFAVDYYFNGENSACRANKGFFEWHPKVPELNFRWGD
+                     PERNIHSPGVKSAEEGTMAVKRMARFFGAAKAGIAPFDKRWVFTETAAFVKTPEGESL
+                     KFIPPDFGFEPKHVISMIIPQSLEGVKSAPSFLGSSEYGLSCAQYGYAPFGLSMFIKD
+                     LGYHAVPIGADSALAIPIAIQAGLGEYSRLGLMITPEFGPNVRLCEVFTDMPLNHDKP
+                     ISFGVTEFCKTCKKCAEACAPQAISYEDPTIDGPRGQMQNSGIKRWYVDPVKCLEFWS
+                     RDNVRNCCGACIAACPFTKPEAWHHTLIRSLVGAPVITPFMKDMDDIFGYGKPNDEKA
+                     IADWWK"
+ORIGIN      
+        1 atggacaagg aaaaaagtaa caacgataag ccggcaacaa aaattaatcg cagacgattc
+       61 cttaaatttg gagctggagc ttcttcaggt attgcaattg ccgctgcagc tactgcattg
+      121 ggagggaaat cacttatcga tcccaaacag gtatatgctg gaacggtcaa ggaactggat
+      181 gaacttccct ttaatatccc ggcagactac aaaccgttta ccaatcaaag gaatatattt
+      241 ggccaggctt tattgggagt accagaacct ctagcacttg tagagcgttt tgatgaagta
+      301 agatggaatg gttggcagac agatggttcg cccggtctta ctgtacttga tggtgcggct
+      361 gctcgtgcaa gctttgccgt tgattattat tttaacgggg aaaatagcgc ctgcagggcc
+      421 aataaaggtt tttttgaatg gcatcccaaa gtgcccgagc tgaactttag gtggggcgat
+      481 ccggagagaa atattcattc ccccggtgta aaaagtgccg aagaaggaac gatggcagta
+      541 aaaagaatgg ctagattttt cggcgctgct aaagctggga tagcgccttt tgacaaacgt
+      601 tgggttttta ctgaaacggc tgcctttgtt aaaacgcctg agggtgaaag tctgaaattt
+      661 atccctccgg attttgggtt tgagcccaag cacgtaatat cgatgattat cccacagtcg
+      721 ctagaaggag taaagagtgc cccgtccttt ttaggatcgt ctgaatatgg attaagttgt
+      781 gcccagtatg gatatgctcc attcggttta tccatgttta ttaaagatct gggatatcat
+      841 gcggttccaa tcggagctga cagtgcatta gctataccta tagctattca ggcgggtctg
+      901 ggggaataca gcaggttggg gctaatgatt acgcctgaat ttggtccaaa tgttagactc
+      961 tgtgaagtat ttactgacat gcctttaaat catgataaac ctatttcatt cggagtaact
+     1021 gaattttgca aaacctgcaa aaaatgcgct gaagcatgcg cccctcaagc tattagctat
+     1081 gaagatccta ccattgatgg acctcgtggg caaatgcaaa attcgggaat aaagagatgg
+     1141 tatgttgacc cggtgaagtg ccttgaattc tggtcgcgtg ataacgtcag aaactgctgc
+     1201 ggagcttgta tagctgcttg cccatttact aagccggaag cctggcacca taccttaatt
+     1261 aggagtctag taggagcacc tgttattact ccattcatga aagatatgga tgatattttt
+     1321 ggatacggaa agccgaatga tgaaaaagcg atagcagatt ggtggaaata a
+//
+

@@ -1,0 +1,64 @@
+LOCUS       CORHHEB                 1130 bp    DNA     linear   BCT 07-DEC-2007
+DEFINITION  Corynebacterium sp. N-1074 hheB gene for halohydrin epoxidase B,
+            complete cds.
+ACCESSION   D90350
+VERSION     D90350.1
+KEYWORDS    .
+SOURCE      Corynebacterium sp.
+  ORGANISM  Corynebacterium sp.
+            Bacteria; Actinomycetota; Actinomycetes; Mycobacteriales;
+            Corynebacteriaceae; Corynebacterium.
+REFERENCE   1  (bases 1 to 1130)
+  AUTHORS   Yu,F., Nakamura,T., Mizunashi,W. and Watanabe,I.
+  TITLE     Cloning of two halohydrin hydrogen-halide-lyase genes of
+            Corynebacterium sp. strain N-1074 and structural comparison of the
+            genes and gene products
+  JOURNAL   Biosci. Biotechnol. Biochem. 58 (8), 1451-1457 (1994)
+   PUBMED   7765275
+COMMENT     These data kindly submitted in computer readable form by:  Fujio Yu
+            Central Research Laboratory
+            Nitto Chemical Industry Co., Ltd.
+            10-1 Daikoku-cho, Tsurumi-ku
+            Yokohama 230
+            Japan.
+FEATURES             Location/Qualifiers
+     source          1..1130
+                     /organism="Corynebacterium sp."
+                     /mol_type="genomic DNA"
+                     /strain="N-1074"
+                     /db_xref="taxon:1720"
+     gene            373..1080
+                     /gene="hheB"
+     CDS             373..1080
+                     /gene="hheB"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="halohydrin epoxidase B"
+                     /protein_id="BAA14362.1"
+                     /translation="MANGRKREMANGRLAGKRVLLTNADAYMGEATVQVFEEEGAEVI
+                     ADHTDLTKVGAAEEVVERAGHIDVLVANFAVDAHFGVTVLETDEELWQTAYETIVHPL
+                     HRICRAVLPQFYERNKGKIVVYGSAAAMRYQEGALAYSTARFAQRGYVTALGPEAARH
+                     NVNVNFIAQHWTQNKEYFWPERIATDEFKEDMARRVPLGRLATAREDALLALFLASDE
+                     SDFIVGKSIEFDGGWAT"
+ORIGIN      
+        1 ggatccccga ttactactcc aacttcacca tggagacggt cgaggatgcc ggtcacttcc
+       61 tgatggtcga gaagccggac atcgtcgtcg atcgcctgac caaggcattc agctagatcc
+      121 gaacccatcg tgcggtcctc gcggtcctcg cggcgggagc tcgtccggat ctcacgcatt
+      181 ccggctaggc ctatcgcgcc ggcggaagga gcgagcgctc cgggggcgca acgcgccgtc
+      241 gaacgaccca cccgaagagg ctcgcgccga gcggccgtgg tgaggccgtc gactagagaa
+      301 ggtattccga ctgctgcggt gcctggcacc gcagcaaaag attcaaggat tctcgaagaa
+      361 aggaaaaggg aaatggctaa cggaaggaaa agggaaatgg ctaacggaag actggcaggc
+      421 aagcgggtcc tactcacgaa cgccgatgcc tacatgggtg aggccacggt ccaggtgttc
+      481 gaggaggagg gcgcagaggt catcgctgac cacaccgact tgacgaaggt cggcgcggcg
+      541 gaggaggtcg tcgagagggc tgggcacatc gatgtcctgg tggccaactt cgcggtcgac
+      601 gcccacttcg gggtgaccgt gctggagacc gacgaggagc tgtggcagac ggcctacgag
+      661 accatcgtgc acccgctgca tcggatctgc cgtgcggtgc tcccgcagtt ctacgagcgg
+      721 aacaagggca agatcgttgt ctacggaagt gccgcagcga tgcggtacca ggaaggtgcg
+      781 ctggcctaca gcacggcgcg tttcgctcag cgcgggtacg tcaccgccct cggtcccgag
+      841 gcagcgaggc acaacgtcaa cgtgaacttc atcgcccagc actggaccca aaacaaggag
+      901 tacttctggc ccgagcgcat cgccaccgac gagttcaagg aggatatggc gcgccgagtt
+      961 cccctgggtc ggctcgcgac tgcccgagag gacgcgctgc tcgcgttgtt cctggcctcg
+     1021 gacgagagtg acttcatcgt cggcaagtcg atcgagttcg acggcggctg ggccacctga
+     1081 gagacgtcac agccccctcg ggcaggcgct cgtcgtcgtt gtagctgcag
+//
+

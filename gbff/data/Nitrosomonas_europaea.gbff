@@ -1,0 +1,210 @@
+LOCUS       JZQZ01000032            4266 bp    DNA     linear   ENV 24-FEB-2016
+DEFINITION  MAG: Nitrosomonas europaea isolate OLB2 UZ02_AOB00100CONTIG000032,
+            whole genome shotgun sequence.
+ACCESSION   JZQZ01000032 JZQZ01000000
+VERSION     JZQZ01000032.1
+DBLINK      BioProject: PRJNA274364
+            BioSample: SAMN03372522
+KEYWORDS    WGS; ENV; Metagenome Assembled Genome; MAG.
+SOURCE      Nitrosomonas europaea (bioreactor metagenome)
+  ORGANISM  Nitrosomonas europaea
+            Bacteria; Pseudomonadota; Betaproteobacteria; Nitrosomonadales;
+            Nitrosomonadaceae; Nitrosomonas.
+REFERENCE   1  (bases 1 to 4266)
+  AUTHORS   Speth,D.R., In 't Zandt,M.H., Guerrero-Cruz,S., Dutilh,B.E. and
+            Jetten,M.S.
+  TITLE     Genome-based microbial ecology of anammox granules in a full-scale
+            wastewater treatment system
+  JOURNAL   Nat Commun 7, 11172 (2016)
+   PUBMED   27029554
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 4266)
+  AUTHORS   Speth,D.R., In T Zandt,M., Guerrero Cruz,S., Jetten,M.S. and
+            Dutilh,B.E.
+  TITLE     Improved understanding of the partial-nitritation anammox process
+            through 23 genomes representing the majority of the microbial
+            community
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 4266)
+  AUTHORS   Speth,D.R., In T Zandt,M., Guerrero Cruz,S., Jetten,M.S. and
+            Dutilh,B.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2015) Ecological Microbiology, Radboud University
+            Nijmegen, Heyendaalseweg 135, Nijmegen, The Netherlands
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Date         :: FEB-2015
+            Assembly Method       :: CLC NGS Cell v. 7.5.1
+            Genome Coverage       :: 70.0x
+            Sequencing Technology :: IonTorrent
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..4266
+                     /organism="Nitrosomonas europaea"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="UZ02_AOB00100CONTIG000032"
+                     /isolate="OLB2"
+                     /isolation_source="partial-nitritation anammox (PNA)
+                     reactor; full scale (600m3) reactor for the removal of
+                     ammonium from wastewater from the potato processing
+                     industry"
+                     /db_xref="taxon:915"
+                     /environmental_sample
+                     /country="Netherlands: Olburgen"
+                     /lat_lon="52.048138 N 6.144261 E"
+                     /collection_date="Oct-2013"
+                     /metagenome_source="bioreactor metagenome"
+                     /note="metagenomic"
+     gene            complement(<1..245)
+                     /locus_tag="UZ02_AOB001000189"
+     CDS             complement(<1..245)
+                     /locus_tag="UZ02_AOB001000189"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="KXK49928.1"
+                     /translation="MVKGWTMTSIKWLGGVLLGMVCSIQVQAHGGLSLAEDMCKLTIG
+                     PYTMHFTGYQPESTQEKEFCEDIPNIGRTIVALDYID"
+     gene            complement(312..947)
+                     /locus_tag="UZ02_AOB001000190"
+     CDS             complement(312..947)
+                     /locus_tag="UZ02_AOB001000190"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="KXK49929.1"
+                     /translation="MRRESLLKKHEGVVKSTGGGVVLKQSLYSIVTAFVFVILCSAST
+                     VWGHGRVSLEEDNCVRQVGENMVHLNTYQPQYDQAGHYCTEIPAAGDTYLVVDLIDPA
+                     LRNMPVSMKVFRGEEKGGEAIVQVKADYHPDGVINGIGKLDKGLYSVMVTAEGVPPLN
+                     YYYQLRVEMVDYGKLVRTWAGPAVAILFLGWLMYKLVQSGRLRSWFKSQDD"
+     gene            complement(1111..2373)
+                     /gene="amoB"
+                     /locus_tag="UZ02_AOB001000191"
+     CDS             complement(1111..2373)
+                     /gene="amoB"
+                     /locus_tag="UZ02_AOB001000191"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:GenBank:NP_841016.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ammonia monooxygenase subunit B"
+                     /protein_id="KXK49930.1"
+                     /translation="MGIKNLYKRGVMGLYGVAYAVAALAMTVTLDVSTVAAHGERSQE
+                     PFLRMRTVQWYDIKWGPEVTKVNENAKITGKFHLAEDWPRAAASPDFSFFNVGSPSPV
+                     FVRLSTKINGHPWFISGPLQIGRDYEFEVNLRARIPGRHHMHAMLNVKDAGPIAGPGA
+                     WMNITGSWDDFTNPLKLLTGETIDSETFNLSNGIFWHVVWMSIGIFWIGVFTARPMFL
+                     PRSRVLLAYGDDLLMDPMDKKITWVLAILTLALVWGGYRYTENKHPYTVPIQAGQSKV
+                     AALPVAPNPVSIVITDANYDVPGRALRVTMEVTNNGDIPVTFGEFTTAGIRFINSTGR
+                     KYLDPQYPRELIAVGLNFDDESAIQPGQTKELKMEAKDALWEIQRLMALLGDPESRFG
+                     GLLMSWDAEGNRHINSIAGPVIPVFTKL"
+     gene            complement(2375..3205)
+                     /gene="amoA"
+                     /locus_tag="UZ02_AOB001000192"
+     CDS             complement(2375..3205)
+                     /gene="amoA"
+                     /locus_tag="UZ02_AOB001000192"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:GenBank:NP_841017.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ammonia monooxygenase subunit A"
+                     /protein_id="KXK49931.1"
+                     /translation="MSIFRTEEILKAAKMPPEAVHMSRLIDAVYFPILIILLVGTYHM
+                     HFMLLAGDWDFWMDWKDRQWWPVVTPIVGITYCSAIMYYLWVNYRQPFGATLCVVCLL
+                     IGEWLTRYWGFYWWSHYPINFVTPGIMLPGALMLDFTLYLTRNWLVTALVGGGFFGLL
+                     FYPGNWPIFGPTHLPIVVEGTLLSMADYMGHMYVRTGTPEYVRHIEQGSLRTFGGHTT
+                     VIAAFFSAFVSMLMFTVWWYLGKVYCTAFFYVKGKRGRIVHRNDVTAFGEEGFPEGIK
+                     "
+     gene            complement(3368..4183)
+                     /gene="amoC_1"
+                     /locus_tag="UZ02_AOB001000193"
+     CDS             complement(3368..4183)
+                     /gene="amoC_1"
+                     /locus_tag="UZ02_AOB001000193"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:GenBank:NP_841018.1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ammonia monooxygenase subunit C"
+                     /protein_id="KXK49932.1"
+                     /translation="MATTLGTSSASSVSSRGYDMSLWYDSKFYKFGMITMLLVAIFWV
+                     WYQRYFAYSHGMDSMEPEFDRVWMGLWRVHMAIMPLFALVTWGWIMKTRDTKEQLDNL
+                     DPKLEVKRYFYYMMWLGVYIFGVYWGGSFFTEQDASWHQVIIRDTSFTPSHVVVFYGS
+                     FPMYIVCGIATYLYAMTRLPLFSRGISFPLVMAIAGPLMILPNVGLNEWGHAFWFMEE
+                     LFSAPLHWGFVVLGWAGLFQGGVAAQIITRYSNLTDVIWNNQSKEILNNRVVA"
+ORIGIN      
+        1 tcatctatgt agtccagcgc tacaattgtc cggccaatat tcggtatgtc ttcacagaat
+       61 tctttttcct gtgtgctttc aggctgataa cccgtaaagt gcatggtata aggaccaatg
+      121 gtcagcttac acatatcttc cgccagtgat aacccaccat gtgcttgcac ctggattgaa
+      181 cagaccattc ccagcagtac ccctccaagc cacttgatac ttgtcattgt ccaccctttt
+      241 accatttaac catcctccct ctccttgatt ttcttgttgt gaatcacatc gctgacgcag
+      301 gatgatccag tttaatcatc ctgagatttg aaccagcttc tcaatcgacc agattgcacc
+      361 agtttataca tcaaccagcc caaaaacagt attgcgactg ccggacctgc ccaggtacgt
+      421 accagcttgc cataatcaac catttcaacc cgaagctggt aataataatt cagtggggga
+      481 acaccttctg cggtcaccat taccgaatat aaccccttgt ccagtttacc tattccattg
+      541 atgacaccat cagggtgata atcggctttt acctgaacaa ttgcttcccc tcccttttct
+      601 tcacccctga atactttcat gctcactggc atgttgcgta aggctggatc aatcagatct
+      661 accaccaggt aagtatctcc cgccgccgga atctctgtac aataatgccc cgcctgatca
+      721 tattgaggct gataggtatt caagtgcacc atattctcgc ctacctgacg cacacagtta
+      781 tcttcttcca aagatacacg accatgtccc cagactgtac ttgcggaaca cagaattacg
+      841 aaaacaaatg ctgtaacaat cgagtacagg gattgcttca acacgacacc ccccccagta
+      901 ctttttacaa caccttcatg ctttttcagc aaactctctc ttctcatttt tacaatccct
+      961 ttcaattcag tatccgcaat actaaattcg acaggctaat tgatgcttcg ttcaaaacca
+     1021 agactgtgta ataaaaaccg gtacacctct gccttacgac agtgatgtac cggtatcttt
+     1081 caactgatac tcagtactca gtactgttta tcagagtttg gtgaagacag gaatcaccgg
+     1141 accagcaata ctgttgatat ggcgattacc ttctgcatcc caagacatca ataatccacc
+     1201 aaaacggctt tccgggtcac ccagcaacgc catcagacgt tggatttccc acaatgcatc
+     1261 tttggcttcc attttcagtt ccttggtctg accaggttga attgcgcttt catcgtcgaa
+     1321 attcaaaccg acagcgatca gttcacgagg atactgagga tccaagtatt tacggccggt
+     1381 agagttgatg aaacgtatgc ctgccgtggt gaactcacca aatgtgacag gtatgtcgcc
+     1441 attattggtt acttccatgg tgacacgcag tgcacgtccc ggtacgtcat agttagcatc
+     1501 tgtaatgaca atcgatactg ggttgggtgc tactggtaat gctgccactt tggattgacc
+     1561 tgcctggata ggtaccgtgt agggatgttt attttccgta taacggtatc caccccatac
+     1621 cagcgccagc gtcagaatgg caagtaccca ggtgattttt ttgtccatcg gatccatcaa
+     1681 cagatcatca ccgtaggcca acaatacacg actacgtggc aggaacatcg gccgtgctgt
+     1741 aaaaacacca atccagaaaa taccgatgga catccagaca acgtgccaga atataccgtt
+     1801 cgataagttg aaggtttctg aatcaattgt ctcacccgtc aataatttca gtgggttggt
+     1861 aaaatcatcc cagcttccgg taatgttcat ccatgcacct ggcccagcaa tcggacctgc
+     1921 atctttgacg ttcagcatgg catgcatgtg atgacgtccc ggaatacgtg cacgcagatt
+     1981 gacttcaaac tcatagtcac ggccaatttg cagaggacct gaaatgaacc atggatggcc
+     2041 attgatcttg gtactcaaac gtacaaatac cgggcttggg cttcctacgt taaagaagga
+     2101 aaaatcaggg cttgcagctg cacgtggcca atcctcagcc aagtggaact tacccgtgat
+     2161 ttttgcgttc tcattaactt tggttacctc aggaccccat ttgatgtcat accattgaac
+     2221 tgtacgcatc cgaaggaacg gctcctggga tcgctccccg tgtgccgcta ccgttgagac
+     2281 atccagtgtt actgtcatgg ctaatgcggc tactgcataa gcaacaccgt aaagccccat
+     2341 cactccccgt ttataaaggt ttttgatacc cattttattt gatcccctct ggaaagcctt
+     2401 cttcaccgaa tgcggtaaca tcattgcgat gtacgatacg acctctttta cctttaacgt
+     2461 agaaaaaggc tgtacagtaa acttttccaa gataccacca tacggtgaac atcaacattg
+     2521 atacgaacgc agagaagaat gctgcaataa ctgtggtatg accaccaaag gtacgcagtg
+     2581 aaccttgctc aatatgacga acatactcgg gtgtacctgt acgaacatac atatggccca
+     2641 tgtagtcagc catcgacaac agtgttcctt ctacaacgat tggcagatgc gttggaccaa
+     2701 agatcggcca gttacccgga tagaacagca gaccgaagaa tccacctcca accagagccg
+     2761 tcaccagcca gttgcgtgtc agatacagcg tgaagtccag catcagcgca cccggaagca
+     2821 taatgcccgg tgttacgaag ttgatggggt agtgtgacca ccagtagaat ccccagtaac
+     2881 gtgtcagcca ctcaccaatc agcagacaca ccacacacaa cgttgcacca aacggttggc
+     2941 ggtagttgac ccacaagtaa tacatgattg ccgaacagta ggtgatcccc acgattggcg
+     3001 ttacaaccgg ccaccattga cgatctttcc agtccatcca gaaatcccag tcacctgcca
+     3061 gcagcataaa gtgcatgtgg taggtaccca ccagcaaaat aatcagaatt ggaaaataaa
+     3121 ctgcatcaat cagacgtgac atatgaaccg cttccggcgg catcttggcc gctttcagga
+     3181 tttcttccgt tctaaatata ctcaccctgc cctcccttct tataatttaa aagtaacata
+     3241 cgattcctct tttcctctaa ggtaccgcac tctggttctg actgaccagg tgctactttc
+     3301 agcacccggc cagacttcct cttttaatgt accccaagcg caacttctgc ctggagtaca
+     3361 taccagatta agctacaacc cggttgttca ggatttcttt gctctggtta ttccaaatca
+     3421 cgtcagtcag attggagtaa cgggtaatga tctgagctgc aacaccaccc tggaacagac
+     3481 ctgcccaacc cagcactaca aatccccagt gcagcggtgc gctaaacaac tcttccataa
+     3541 accagaaagc atgaccccac tcgttcaaac caacgttagg cagaatcatc agcggacctg
+     3601 caattgccat taccagcggg aaggaaattc cacggctgaa cagtggcaga cgggtcattg
+     3661 catacaggta agttgcaata ccacacacga tgtacatcgg gaatgatcca tagaacacta
+     3721 ctacatggct tggtgtgaag ctggtgtcac gaataatcac ttggtgccag gaagcatctt
+     3781 gctccgtgaa gaagctaccg ccccagtaaa caccaaaaat gtatacgccc agccacatca
+     3841 tgtagtagaa gtagcgtttg acttccagtt ttggatccag gttgtccagc tgctctttcg
+     3901 tatcacgggt tttcatgatc caaccccagg taaccagcgc aaacagcggc atgatcgcca
+     3961 tgtgtacacg ccacagcccc atccacacac gatcaaactc tggctccatc gagtccattc
+     4021 cgtgtgaata agcaaagtaa cgctgatacc atacccagaa aatcgccacc agaagcatgg
+     4081 taatcatgcc aaatttgtaa aatttggagt cataccacag tgacatgtca tagcctctcg
+     4141 acgagactga tgaggcactg ctcgttccta acgtagttgc catctcttta tcctcctatt
+     4201 caccacattt tgttaaaacc agtgatgaaa actaaatttt tcatcactca ctatcgcaaa
+     4261 gaaacc
+//
+

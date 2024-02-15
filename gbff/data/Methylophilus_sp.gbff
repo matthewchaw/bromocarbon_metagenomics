@@ -1,0 +1,106 @@
+LOCUS       MYMDCMA                 2283 bp    DNA     linear   BCT 12-AUG-1994
+DEFINITION  Methylophilus sp. dichloromethane dehalogenase/glutathione
+            S-transferase (dcmA) gene, complete cds.
+ACCESSION   L26544
+VERSION     L26544.1
+KEYWORDS    dcmA gene; dichloromethane dehalogenase; glutathione S-transferase.
+SOURCE      Methylophilus sp.
+  ORGANISM  Methylophilus sp.
+            Bacteria; Pseudomonadota; Betaproteobacteria; Nitrosomonadales;
+            Methylophilaceae; Methylophilus.
+REFERENCE   1  (bases 1 to 2283)
+  AUTHORS   Bader,R. and Leisinger,T.
+  TITLE     Isolation and characterization of the Methylophilus sp. strain DM11
+            gene encoding dichloromethane dehalogenase/glutathione
+            S-transferase
+  JOURNAL   J. Bacteriol. 176 (12), 3466-3473 (1994)
+   PUBMED   8206823
+FEATURES             Location/Qualifiers
+     source          1..2283
+                     /organism="Methylophilus sp."
+                     /mol_type="genomic DNA"
+                     /strain="DM11"
+                     /db_xref="taxon:29541"
+     regulatory      565..570
+                     /regulatory_class="minus_35_signal"
+                     /note="putative"
+     regulatory      588..593
+                     /regulatory_class="minus_10_signal"
+                     /note="putative"
+     mRNA            600..>1525
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     regulatory      711..713
+                     /regulatory_class="ribosome_binding_site"
+                     /note="putative"
+     gene            722..1525
+                     /gene="dcmA"
+     CDS             722..1525
+                     /gene="dcmA"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Dichloromethane Dehalogenase / Glutathione
+                     S-Transferase"
+                     /protein_id="AAA25443.1"
+                     /translation="MSTKLRYLHHPASQPCRAVHQFMLENNIEFQEEIVDITTDINEQ
+                     PEFRERYNPTGQVPILVDGDFTIWESAAIVYYLSEKYDCSSSWWGSTLEERGHIQQYM
+                     HWYAYTLRLGGGAFHWTIFAPMIYGYDKDFTVEVTKGRFLLYESFDILEKYWLKDGDY
+                     LCGNTLSYPDLATCQDLVSHDAGRIIPTSMWDSHPKVKAWFARMMDREHAKTVSAWQY
+                     ENVRKYLDDGVKLNFQRKTAVLKGTEVYSGHNNGIIYNGDDDSFVTQHG"
+     stem_loop       1550..1584
+                     /note="putative"
+                     /function="putative transcription termination site of
+                     dcmA"
+     CDS             1636..>2283
+                     /note="putative"
+                     /codon_start=1
+                     /transl_table=11
+                     /protein_id="AAA25444.1"
+                     /translation="MQSFLKLLLSYRIAKMNTTIETEVNYLDQSVESSLYRNGKVYTF
+                     RDTDGNDSNWYGAKLTPQKVVINDAREKNHTIDANGFELINAPLLKENLDFLDLNDVV
+                     KNYYPQCEDILKKATHASEVYAFDHNIRWKSANEQQTQITDGQQIQQPIYVMHGDYTI
+                     SSVEDRIYALGKPLGDNDTLKKFLEPGAALIPHNVISKIFDEKKRFSIINVWRNID"
+ORIGIN      
+        1 tctagagggt tcaacctaaa taaaacaata ttagtataca aatatcactc tatcactaac
+       61 cttgtcgctt ataagttaca agctgaacat aaatattgac catcattgta taaccatgta
+      121 tagttaaatg catggttttc agcgaccata ttatgctaat agttattata acggtagggc
+      181 cggtttactc atggaatgaa aaaccggctt aaccataaac gcatctcgcc atgtactaca
+      241 tcaagaacga atatacgcgc taacatcccc atcataatga gctgcgacaa catttcccag
+      301 cccccccccc gctcaccttc atcaaaaact acacccatat tttacctgtc aacaagctaa
+      361 ataacgatcg tcaaaaatac tgctaggaat gctagcgtac atagcgacag ataataacaa
+      421 gatcaactta ctccgcacac aaaaacgaca catgtataac ttgaacaatc aaataataaa
+      481 tactatatag ctaatataca tcaatgggtt acgcgtaaac acttgcttaa tataaattta
+      541 tcacaaacaa tcgccctata actattgacc acttttgtac atgcatgtat agtcaagtca
+      601 tggtttaaat aaaccataac ttgataatag ttagaaaaaa taaagtgaat gcatgattta
+      661 ttaatgaagt cataaatcac cattaataca aatatataaa aaaagagaga gagaaattat
+      721 tatgagtact aaactacgat atctacatca tcctgcatca cagccttgtc gtgcagttca
+      781 tcaatttatg cttgaaaata acattgagtt tcaagaagag attgttgata ttactactga
+      841 tattaatgaa caacctgagt tcagagaaag atataatcct acaggccaag ttcctattct
+      901 agtagatggc gatttcacta tctgggaaag tgccgcgatt gtatattatt tatctgaaaa
+      961 atatgattgt tctagttctt ggtggggtag taccttagaa gaaagaggcc atattcaaca
+     1021 atatatgcat tggtatgctt acacgcttcg tcttggcggc ggtgcatttc attggactat
+     1081 cttcgcacca atgatctatg gttatgataa agatttcacg gttgaagtta ccaaaggtcg
+     1141 tttccttctt tatgaatcgt ttgatatttt agagaaatac tggcttaaag atggtgatta
+     1201 tctatgcgga aacacattaa gctatccaga tctggccact tgccaagatt tagtttcgca
+     1261 tgatgccggt agaattattc caacatcaat gtgggattct caccctaaag ttaaagcatg
+     1321 gtttgcaaga atgatggatc gtgaacatgc aaaaacagtc agtgcttggc agtatgaaaa
+     1381 tgttcgtaaa tatcttgatg atggtgttaa actcaatttc caacgtaaaa cagcggtact
+     1441 gaaaggaact gaagtttata gtggtcataa caacggcatt atctacaatg gcgatgatga
+     1501 ttcattcgtt actcaacacg gataatttct acttacaatc ttaataatgt gaatatcacg
+     1561 atcatataat ggtcgtgata ttcataacta tctacgataa ttctcttttt agtttgaatt
+     1621 atttatgtaa ctctagtgca aagtttttta aaactattgc ttagttatag gattgccaaa
+     1681 atgaatacaa ctatagaaac ggaagttaac tacttagatc aaagtgtcga atcttcactg
+     1741 tatagaaatg gaaaagttta tacatttcgt gataccgacg gtaatgatag taattggtac
+     1801 ggggcaaaac tcactcccca aaaagttgtc attaatgatg ctagagaaaa aaatcatacc
+     1861 attgatgcaa atggattcga attaataaat gctcctttat taaaagaaaa tctagatttt
+     1921 ttagacctta atgatgtggt aaaaaactac taccctcagt gtgaagacat cctaaaaaaa
+     1981 gctacccatg ctagtgaagt ctatgcattt gaccataata ttcgctggaa gtcagcaaac
+     2041 gaacagcaaa ctcaaataac agatggtcaa caaatacaac agccaatcta tgtaatgcat
+     2101 ggcgattaca caatatctag tgttgaagat agaatttatg ctttaggtaa acctctcgga
+     2161 gataatgaca ctttaaagaa atttttagaa cctggggctg cattaatacc ccataatgtc
+     2221 atttcaaaaa tttttgatga aaagaaacgt tttagcatca tcaatgtttg gcggaatatc
+     2281 gat
+//
+

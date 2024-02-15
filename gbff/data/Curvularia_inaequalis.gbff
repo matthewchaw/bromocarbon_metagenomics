@@ -1,0 +1,94 @@
+LOCUS       X85369                  1830 bp    mRNA    linear   PLN 25-AUG-1995
+DEFINITION  C.inaequalis mRNA for vanadium chloroperoxidase.
+ACCESSION   X85369
+VERSION     X85369.1
+KEYWORDS    vanadium chloroperoxidase; vCPO gene.
+SOURCE      Curvularia inaequalis
+  ORGANISM  Curvularia inaequalis
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Dothideomycetes; Pleosporomycetidae; Pleosporales; Pleosporineae;
+            Pleosporaceae; Curvularia.
+REFERENCE   1
+  AUTHORS   Simons,B.H., Barnett,P., Vollenbroek,E.G., Dekker,H.L.,
+            Muijsers,A.O., Messerschmidt,A. and Wever,R.
+  TITLE     Primary structure and characterization of the vanadium
+            chloroperoxidase from the fungus Curvularia inaequalis
+  JOURNAL   Eur. J. Biochem. 229 (2), 566-574 (1995)
+   PUBMED   7744081
+REFERENCE   2  (bases 1 to 1830)
+  AUTHORS   Barnett,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-MAR-1995) P. Barnett, E.C.Slater, Plantage
+            Muidergracht 12, 1018 TV Amsterdam, NETHERLANDS
+FEATURES             Location/Qualifiers
+     source          1..1830
+                     /organism="Curvularia inaequalis"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:38902"
+     gene            1..1830
+                     /gene="vCPO"
+     CDS             1..1830
+                     /gene="vCPO"
+                     /codon_start=1
+                     /product="vanadium chloroperoxidase"
+                     /protein_id="CAA59686.1"
+                     /db_xref="GOA:P49053"
+                     /db_xref="InterPro:IPR000326"
+                     /db_xref="InterPro:IPR016118"
+                     /db_xref="InterPro:IPR016119"
+                     /db_xref="PDB:1IDQ"
+                     /db_xref="PDB:1IDU"
+                     /db_xref="PDB:1VNC"
+                     /db_xref="PDB:1VNE"
+                     /db_xref="PDB:1VNF"
+                     /db_xref="PDB:1VNG"
+                     /db_xref="PDB:1VNH"
+                     /db_xref="PDB:1VNI"
+                     /db_xref="PDB:1VNS"
+                     /db_xref="PDB:3BB0"
+                     /db_xref="UniProtKB/Swiss-Prot:P49053"
+                     /translation="MGSVTPIPLPKIDEPEEYNTNYILFWNHVGLELNRVTHTVGGPL
+                     TGPPLSARALGMLHLAIHDAYFSICPPTDFTTFLSPDTENAAYRLPSPNGANDARQAV
+                     AGAALKMLSSLYMKPVEQPNPNPGANISDNAYAQLGLVLDRSVLEAPGGVDRESASFM
+                     FGEDVADVFFALLNDPRGASQEGYHPTPGRYKFDDEPTHPVVLIPVDPNNPNGPKMPF
+                     RQYHAPFYGKTTKRFATQSEHFLADPPGLRSNADETAEYDDAVRVAIAMGGAQALNST
+                     KRSPWQTAQGLYWAYDGSNLIGTPPRFYNQIVRRIAVTYKKEEDLANSEVNNADFARL
+                     FALVDVACTDAGIFSWKEKWEFEFWRPLSGVRDDGRPDHGDPFWLTLGAPATNTNDIP
+                     FKPPFPAYPSGHATFGGAVFQMVRRYYNGRVGTWKDDEPDNIAIDMMISEELNGVNRD
+                     LRQPYDPTAPIEDQPGIVRTRIVRHFDSAWELMFENAISRIFLGVHWRFDAAAARDIL
+                     IPTTTKDVYAVDNNGATVFQNVEDIRYTTRGTREDPEGLFPIGGVPLGIEIADEIFNN
+                     GLKPTPPEIQPMPQETPVQKPVGQQPVKGMWEEEQAPVVKEAP"
+ORIGIN      
+        1 atggggtccg ttacacccat cccactccct aagatcgatg aacccgaaga gtacaacacc
+       61 aactacatac tattctggaa ccatgtcggt ttggaactca accgcgtaac tcacactgtt
+      121 ggaggccccc tgacgggacc acctctctct gccagggctc tgggtatgct gcacttggct
+      181 attcacgacg cctacttttc tatctgccct ccgaccgact tcaccacctt cctctcacct
+      241 gatactgaga atgccgcgta ccgtctacct agccctaatg gtgcaaatga tgctcgccaa
+      301 gcagtcgctg gagctgccct caagatgctg tcttcactgt acatgaagcc cgtcgagcag
+      361 cctaacccta accccggcgc caacatctcc gacaacgctt atgctcagct tggcttggtt
+      421 ctcgaccgat cagttctgga ggcacctggt ggcgtggacc gagagtcagc cagtttcatg
+      481 tttggtgagg atgtagccga tgtcttcttc gcactcctca acgatcctcg aggtgcttcg
+      541 caggagggct accaccctac acccggccgc tataaatttg acgatgaacc tactcaccct
+      601 gtcgtcctca ttccagtaga ccccaacaac cctaatggtc ccaagatgcc tttccgtcag
+      661 taccacgccc cattctacgg caagaccacg aagcgttttg ctacgcagag cgagcacttc
+      721 ctggccgacc caccgggcct gcgttctaat gcggacgaga ccgcggagta tgacgacgcc
+      781 gtccgcgtcg ctatcgccat gggtggtgct caggctctca actccaccaa gcgtagccca
+      841 tggcagacag cacagggcct atactgggcc tacgatgggt caaacctcat tggcacacca
+      901 cctcgctttt acaaccagat cgtacgtcgc atcgcagtta cgtacaagaa ggaagaggac
+      961 cttgccaaca gcgaagtcaa caatgcggat ttcgcccgcc tcttcgccct cgtcgacgtc
+     1021 gcttgcacag acgctggtat cttttcctgg aaggagaaat gggagttcga attctggcgc
+     1081 ccactatctg gtgtgcgaga cgacggccgt ccagaccatg gagatccttt ctggctcact
+     1141 ctcggtgccc cagctactaa caccaacgac attccattca agcctccttt cccagcttac
+     1201 ccatctggtc acgcgacctt tggcggtgct gtgttccaaa tggtgcgtcg atactacaac
+     1261 ggccgcgtag gtacatggaa ggacgacgaa cccgacaaca ttgccatcga tatgatgatc
+     1321 tcggaggagc tcaacggcgt gaaccgcgac ctacgccagc cttatgaccc cacggcccca
+     1381 atcgaagacc aacccggtat cgtgcgcacc cgcattgttc gccacttcga ctcggcctgg
+     1441 gaactcatgt tcgaaaacgc catttcgcgc atcttcctcg gtgtccactg gcgtttcgat
+     1501 gccgccgccg cccgcgacat tctcattccc acgacgacaa aggacgtcta cgctgtcgac
+     1561 aacaatggcg ccaccgtgtt ccagaacgta gaggacatta ggtacacaac caggggtacg
+     1621 cgtgaggacc ccgagggcct cttccctatc ggtggtgtgc cactgggtat cgagattgcg
+     1681 gatgagattt ttaataatgg acttaagcct acgcccccgg agatccagcc tatgccgcag
+     1741 gagacaccgg tgcagaagcc ggtgggacag cagccggtta agggcatgtg ggaggaagag
+     1801 caggcgccgg tagtcaagga ggcgccgtag
+//
+
