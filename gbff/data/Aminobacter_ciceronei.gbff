@@ -84,45 +84,6 @@ FEATURES             Location/Qualifiers
                      DMYERNERFVTDMLKAAKTMDKAMPILTPLLEAAGGGDGPTGTVVVGLVRGNTQDIGK
                      NLVCLMLKANGFKVIDMGKNVKARAVHRDGGEGKCRRHRHVGDDQLVLRLCPEGQAAA
                      G"
-     CDS             2681..3121
-                     /note="Orf146"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="putative transporter"
-                     /protein_id="AAK38766.1"
-                     /translation="MQTRPCSWSGTTSQRKPLDPTSQATCRLAQGRGGPFRNNFEAEM
-                     PSYTFRCGDCREDRQVLTDLATADGLELVCTSCGGSMTRAPVLVVNVIGPATEARRAA
-                     NDAKAEEIFKPCGHKYQCRCGVRLSKPNPFKQEIKKAHGFVDED"
-     gene            3135..4229
-                     /gene="paaE"
-     CDS             3135..4229
-                     /gene="paaE"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="reductase PaaE"
-                     /protein_id="AAK38767.1"
-                     /translation="MATYHLKIVGKRDEGNDAASLWLEVPQDLRGAFSYRPGQFLTVE
-                     RDGDGGRIARQYSLSSTPEAHRDLRITVKKIDGGAVSPWLVQDVGEGQALEVQPPRGR
-                     FFRGFDEPRHVLMLACGSGIAPILSIARHLLAQDAGHRVTIIYGNRTPDAVILGDEVG
-                     ALAESHPTACHVEQVMSRAGESWHGARGRIDKTFIETRWKDWQAASHGLSTSIFLCGP
-                     QEFMDDAERAFVDLGLALADIHRESFDLVLNDDDGEPGLTLVGVNDPGESGPCERIVA
-                     VVGGEEYETVPEEGESILAALIRAEADVPFSCQEGTCASCISKLTEGSASVRPGVLQT
-                     LRQDDLDEGLTLACLSRPTTRSVRIDFDEI"
-     gene            4400..5419
-                     /gene="hutI"
-     CDS             4400..5419
-                     /gene="hutI"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="imidazolonepropionase HutI"
-                     /protein_id="AAK38768.1"
-                     /translation="MGGMLALPGLVCCHNPIIWAPGAEAESEQDGAAYRSLVQETARL
-                     TATIGDDALLDTAFRRLAELRKTGVTACEIKTGFGLAIEDELRHALLARRLQKQTDLL
-                     TRVTLYPGHFIPDDADADDRIEEIVTRLLPKVYEAQACECVEVFCDDDGGLDLDRAST
-                     ILEAFYRKKTPSRVSCDRFSDSAGATLPASFYSQSAAYLCCSDADGIGSVAATGTSTI
-                     LIPEIAKRDRDSARPDIQAMRDVGARLAVSTQGGPDGTGIDLLGAARLAVNCFQLTPV
-                     EALMGITIHAASALGVDQVAGSLACGRRGDLALFDAATPLDLVRIPEMRPRAVVTAGA
-                     IEELS"
      gene            5444..>6165
                      /gene="metF"
      CDS             5444..>6165

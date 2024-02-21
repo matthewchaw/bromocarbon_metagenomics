@@ -48,7 +48,7 @@ FEATURES             Location/Qualifiers
                      /gene="cmuC"
                      /note="methyltransferase"
                      /codon_start=1
-                     /transl_table=11
+                     /transl_table=11 
                      /product="CmuC"
                      /protein_id="AAW22508.1"
                      /translation="MTAVWSQRAGDIAARRMVVDIGTTSLTGVRSAAVAGARRGFASH
@@ -78,47 +78,7 @@ FEATURES             Location/Qualifiers
                      VGDLYERNERFVTDMLKAAKTMDKAMPILTPLLEANGGGDGPTGTVVVGLVRGNTQDI
                      GKNLVCLMLKANGFKVIDMGKNVKPEQFIEMAEKENAVAIGMSVMTNSSSVYVQKVKE
                      MLDEQGKGGKYLLMFGGAAANIGLAREFGIEYGIDANAAVQLVRDHVSRKMAA"
-     CDS             3821..4387
-                     /note="orf188"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="unknown"
-                     /protein_id="AAW22510.1"
-                     /translation="MCRRSRKCWTNRARAESTCSCSEARRPISVSHANSASNTASTPM
-                     RRSNSCETTCPARWLPDLASQANAASRKKARRRFSRSDGDKMPFYTFKCVDCDASREV
-                     MTNLSSAGDLELVCMACGGSMTKAPVMKLTIIGPATAAHRAANDSKAEQALKPCGHNY
-                     QCRCGIRMTKANPFKQEIKAAQGFVDED"
-     gene            4405..5499
-                     /gene="paaE"
-     CDS             4405..5499
-                     /gene="paaE"
-                     /note="reductase"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="PaaE"
-                     /protein_id="AAW22511.1"
-                     /translation="MATYHLKIISKRDEGNDTASLWLEVPQDLRGAFSYQPGQFLTVE
-                     REQSGERISRQYSLSSTPGAHRDLRITVKKIPGGAVSPWLVDIAGQGQALEVQVPRGR
-                     FFRGFNESRHVLMLACGSGIAPVLSIARHLLALDAGHRVTIVYGNRTPDAIILRDEVR
-                     ELAESYPDVCRVEHVMSRAGEGWQGARGRIDRAFILSRMEDWLAAGQGLPPSIFLCGP
-                     QEFMDAAEATFTEKGVALKDIHRESFDLVLNDDDDEPGLSLAGVNDPGEAGACERIVA
-                     VVGGEEYEAVPEAGESILAALIRAEADVPFSCQEGTCASCISKLTEGSATVRPAVLQT
-                     LRQDDLDEGVTLACLSRPTTKHVRIDFDEI"
-     gene            5675..>6414
-                     /gene="hutI"
-     CDS             5675..>6414
-                     /gene="hutI"
-                     /note="imidazolonepropionase"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="HutI"
-                     /protein_id="AAW22512.1"
-                     /translation="MNGKLALPGFVCCHNSMLWMPGGDVPKEMDGAGYRDLVEQTAES
-                     TAIASDEDLLDIARQRIARLTRSGVTACELKTGFGRTPDEELRLAMLARQLQQESALL
-                     STVTLYAGHFMPKGRDPDDHMEAIVTKLLPQIYERSACDAVEVFCDDDGGLDLDQAST
-                     ILEAFYRKKTPSRVSCDRFSDSAGATLPASFYSRSATYLCQSDEDGIQSVAAMGTAMI
-                     LVPEIALRDAGSRRPDLESIRETGGRVAR"
-ORIGIN      
+    ORIGIN      
         1 tcggcgattg cacaatcggc ggaccgcttg ggtcccatac cgggcttatc gttgggagta
        61 ttttttacga caatcattcc attgtcaccg atgccttctc cggcgccttc gataaggaca
       121 aggcagccgg tctgattgac cgtgtcaacg ggctggcgtc gcagtacggc gtgcagatgg

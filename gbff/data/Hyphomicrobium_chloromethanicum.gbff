@@ -55,37 +55,6 @@ FEATURES             Location/Qualifiers
                      /protein_id="AAK01341.1"
                      /translation="MLPIDLNGTLVSFEARAFLGPTEDEEALVLIHQQVPIAPDSEPL
                      VYIHSGCLVGDAFHSMRCDCRRRL"
-     CDS             complement(682..1239)
-                     /note="ORF185"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="monophosphate kinase"
-                     /protein_id="AAK01342.1"
-                     /translation="MDLTYFSNSFQSRLRSMQIPSWESLQGAFADADGQLRRGLVTLP
-                     TSEYGSQAFFLADARAGIVIHHPHDKAKAKEAARRALVALGKAAYGGDLFIGSNCPIG
-                     WGLGSSTADVVATLRAVADAYGTAFDPTELARLPFFRAASDSIMFDDSAVLFAQRDGV
-                     PRSIRRPFAILFACINQHQPIGARR"
-     CDS             2521..3144
-                     /note="ORF207"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="porin precursor"
-                     /protein_id="AAK01343.1"
-                     /translation="MWCGSTGLPLAGDCNAIPLNGIRYDTPTYKGFSVSASWGEDDFW
-                     DVAGRYAGEFNGFKLAGAIAYDHNSDEKIFQGFNTVTGLTAFNATRVDAGYLQVGGYV
-                     EHIASGLFLYGAYGKEWNDNVYTEPAVTAGQPSGDVWYLKAGMREQWFPIGHTVLYGE
-                     YSDRNDMYHPALTAFGVTGSEPKAVGTWRCSRSGCRGHVAVGQLQEL"
-     CDS             3275..3952
-                     /note="Orf225"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="transcriptional regulator"
-                     /protein_id="AAK01344.1"
-                     /translation="MFGCGVKMGRRLSRPAAHFVLKTEMKIGNCHVAVEAHLNFKEER
-                     PARVARDRGQLAKTISAVALASSAASRCPSCRATIDPFMRTCHERANRSTSIRPASRA
-                     SFSIMARMCARCCADALRMFSVCRHSKSELMNEQPSKSSRRNHSSNKSKMKSKRSSGD
-                     LSPSRIRISNQSRVQSCSRFSRNARTRASFDLKVPIERHLPRAGTGRRSCRRRRRSPV
-                     SGKQLIG"
      gene            4413..5348
                      /gene="cmuB"
      CDS             4413..5348
@@ -134,48 +103,6 @@ FEATURES             Location/Qualifiers
                      ERNERFVTDMLKAAKTMDKAMPILTPLLEQAGGDGGPTGTVVVGLVRGNTQDIGKNLV
                      CLMLKANGFKVIDLGKNVKPEQFIESAEKENAVAIGMSVMTNSSTVYVEKVKELLDKA
                      GKGDKYLLMCGGAAANKGVADKMGVKYGLDANAAVSLVKDHLQAAA"
-     gene            8476..8808
-                     /gene="fmdB"
-     CDS             8476..8808
-                     /gene="fmdB"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="transcriptional regulator FmdB"
-                     /protein_id="AAK01348.1"
-                     /translation="MVMPLYQFRCDKCDECRDVLVNYELAKKLELICVGCGGSMTLGP
-                     VFAVNILRSRASTANRSGSSRDVAGEAQRQGKGCGHSYHCRCAIHLTKPNPFREEIRK
-                     ANGIADQD"
-     gene            8833..9927
-                     /gene="paaE"
-     CDS             8833..9927
-                     /gene="paaE"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="electron transfer protein PaaE"
-                     /protein_id="AAK01349.2"
-                     /translation="MSTYSLRVERKQRETDDCASLWLSVPTDLRSAFAHRPGQFIAVS
-                     AEINGEEVTRQYSLSSAPDDSRGIRITVKKIPGGRMSSWLVDRVNEGDRIEVAAPRGR
-                     FFRPLDRAHRVLLLAAGSGIAPILPIAQKLLADGVGHRITLAYGSRALDDIILRKDVD
-                     ELPNIFRTCALEHVLSRPGPTWDGPRGRLDSAYLLSRQDLWDGNASHLPLIVYLCGPE
-                     SFMDAAEAFFLSHGVDASAIRRESFDLVLEDDADEPPLFVAGTEEVGEPSAICEEIVA
-                     NVGGEETRVVPEPDETILAALIRGEAPVPFSCQEGTCSSCIAKIKKGSASVRSGVLKT
-                     LRQDDLDEGLLLACLARPASRHILIDFDDI"
-     gene            9988..11298
-                     /gene="hutI"
-     CDS             9988..11298
-                     /gene="hutI"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="HutI"
-                     /protein_id="AAQ94395.1"
-                     /translation="MLKEAMPEGPRVIIDATFSTMREREADDTGYGFLRDGAAVVGER
-                     KDYLARLQRRTSVQPAPFATWSAGGRLITPGLVECHTHLIFSGDRRTEFAELASGRNY
-                     SDLVWEGHGIFATVEATRAASEDELYSSALRRLRWFVSGGVTTIETKSGYGLDVDNEL
-                     KMLRVARRLDEAGLARVKATLLAGHVYPSQIEPEDFIELICSELIPQAHAGKLCDFVE
-                     AYCEETIGFSLDDASTLLEAAYKRKIPTRISADHLSDSAGAALAPAFYAKAAAHLNYT
-                     DDVAIEALASARTTAILLPIAHLELGAKQRPPVDKLREAGVPIAISTGCNPGTAPTTN
-                     LLTAAHLSCALFGLSPLEAIQGITVGAAKALGLSGVVGELTPGANADFAIWDAEHPED
-                     LIYWMGAPLCCSTWLSGSPVREFDSTQIPPINSVFLPTQEPITS"
      gene            11295..12101
                      /gene="metF"
      CDS             11295..12101

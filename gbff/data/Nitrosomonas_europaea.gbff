@@ -54,30 +54,6 @@ FEATURES             Location/Qualifiers
                      /collection_date="Oct-2013"
                      /metagenome_source="bioreactor metagenome"
                      /note="metagenomic"
-     gene            complement(<1..245)
-                     /locus_tag="UZ02_AOB001000189"
-     CDS             complement(<1..245)
-                     /locus_tag="UZ02_AOB001000189"
-                     /inference="ab initio prediction:Prodigal:2.60"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /protein_id="KXK49928.1"
-                     /translation="MVKGWTMTSIKWLGGVLLGMVCSIQVQAHGGLSLAEDMCKLTIG
-                     PYTMHFTGYQPESTQEKEFCEDIPNIGRTIVALDYID"
-     gene            complement(312..947)
-                     /locus_tag="UZ02_AOB001000190"
-     CDS             complement(312..947)
-                     /locus_tag="UZ02_AOB001000190"
-                     /inference="ab initio prediction:Prodigal:2.60"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /protein_id="KXK49929.1"
-                     /translation="MRRESLLKKHEGVVKSTGGGVVLKQSLYSIVTAFVFVILCSAST
-                     VWGHGRVSLEEDNCVRQVGENMVHLNTYQPQYDQAGHYCTEIPAAGDTYLVVDLIDPA
-                     LRNMPVSMKVFRGEEKGGEAIVQVKADYHPDGVINGIGKLDKGLYSVMVTAEGVPPLN
-                     YYYQLRVEMVDYGKLVRTWAGPAVAILFLGWLMYKLVQSGRLRSWFKSQDD"
      gene            complement(1111..2373)
                      /gene="amoB"
                      /locus_tag="UZ02_AOB001000191"

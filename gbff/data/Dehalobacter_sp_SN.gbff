@@ -28,7 +28,7 @@ FEATURES             Location/Qualifiers
                      /isolation_source="mangrove sediment"
                      /db_xref="taxon:1855958"
                      /country="Singapore"
-     CDS             1..1371
+     CDS             1..1371 
                      /EC_number="1.97.1.8"
                      /note="chloroform and bromoform reductive dehalogenase"
                      /codon_start=1

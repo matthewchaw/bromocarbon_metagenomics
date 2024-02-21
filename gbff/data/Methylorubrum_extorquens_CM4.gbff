@@ -28,50 +28,6 @@ FEATURES             Location/Qualifiers
                      /type_material="type strain of Methylobacterium
                      chloromethanicum"
                      /db_xref="taxon:440085"
-     gene            complement(474..1502)
-                     /gene="cobU"
-     CDS             complement(474..1502)
-                     /gene="cobU"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="CobU protein"
-                     /protein_id="CAB39398.1"
-                     /db_xref="GOA:Q9X7F4"
-                     /db_xref="InterPro:IPR003200"
-                     /db_xref="InterPro:IPR008281"
-                     /db_xref="InterPro:IPR012064"
-                     /db_xref="UniProtKB/Swiss-Prot:Q9X7F4"
-                     /translation="MGEIGGNALDGIHARVRTAPLADQAAIAAVRQRDRLLTKPPGSL
-                     GRLEAIVEWLAAWQGKSPPVLESAAAVVFAGNHGVAKHGVSAYPAEVTAQMVANFEAG
-                     GAAINQIAKANGLKLSIVPIDLDRPTADIIIADAMSVQECAAAVNLGASVAAADLDLL
-                     CIGEMGIGNTTPASAILQALFGGPAHIWVGPGTGVERDALTNKIRAVESAVARVIGTD
-                     GTSPLEFLRRLGGREIAALVGAIIEARHRRIPVLIDGFVATAAAAVVHAIEPGAIDHC
-                     LIGHLSAEPAHRRAVQALGKTPILELNMRLGEASGAALAAGIVRSALAVHTGMATFAE
-                     AGVTDRQT"
-     gene            complement(1539..2942)
-                     /gene="folC"
-     CDS             complement(1539..2942)
-                     /gene="folC"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="FolC protein"
-                     /protein_id="CAB39399.1"
-                     /db_xref="GOA:Q9X7F5"
-                     /db_xref="HSSP:P15925"
-                     /db_xref="InterPro:IPR001412"
-                     /db_xref="InterPro:IPR001645"
-                     /db_xref="InterPro:IPR004101"
-                     /db_xref="InterPro:IPR013221"
-                     /db_xref="UniProtKB/TrEMBL:Q9X7F5"
-                     /translation="MRSATSDEGRTSRPHAGGRLTAGTGVERLLEQCSRLHTQEIDYS
-                     LHRMHRLLADLGSPERVLPPVIHVAGTNGKGSAIAVMRTLLEAGGLRVHTYTSPHLVH
-                     FNERIRLASINASRPVADDVLENALMYCLECNRGRPITQFEVVTAAAFHMFATHDADV
-                     VLLEAGLGGRCDATNVVPKPVATVITSISYDHETYLGSSIEQIAVEKAGIFRPGIPVI
-                     VGPQQYFVAENVISRAASLIGAPIHKAGRDFRGKVRGDKFVYIDSEGLHSWPLPGLAG
-                     EHQIDNSSTAIATLLTTGLMPDSATVRRALPLVRWPGRLQPLTGRVAEMLPPDTDVVV
-                     DGGHNPGAAAVIASELRRRNETDQRSTVLILGMLATKDAAAFLAPFLGSVFRVVTVPL
-                     RPDLISHDPQTLAAIAGDIGLSGHAASSVTEAIAEAGRLTSTLKLRLLFIGSLHLAGE
-                     VLELDASLLDPAAERDA"
      gene            complement(2945..3865)
                      /gene="folD"
      CDS             complement(2945..3865)
@@ -90,40 +46,6 @@ FEATURES             Location/Qualifiers
                      NVVVVGRSTIVGRPAAQVFLNADCSVTILHKESRDVPGHCRSADILVVAAGSPGLVRR
                      DWVKPGAVVIDVGINRIPVSSGYRLVGDVDFEGVQYVASAITPVPGGVGPMTVAALME
                      NTVACAEALAIRAPEVMSPDNRLHFDHADV"
-     gene            complement(3986..4849)
-                     /gene="PurU"
-     CDS             complement(3986..4849)
-                     /gene="PurU"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="purU protein"
-                     /protein_id="CAB39401.1"
-                     /db_xref="GOA:Q9X7F7"
-                     /db_xref="InterPro:IPR002376"
-                     /db_xref="InterPro:IPR002912"
-                     /db_xref="InterPro:IPR004810"
-                     /db_xref="UniProtKB/TrEMBL:Q9X7F7"
-                     /translation="MAEKRYVLKISCADRPGIVAAVSGALLERDCNIVEAKQFEDVIE
-                     KRFFMRVVFSGINGQNSLREHQEAMTPLAQRFEMDWSIRDCETKRRVMILVSRFDHCL
-                     VDILYRKRIGELPMDLTAVVTNHAAENYAHLDLCGAPLISLPVTAETKRAQEDKLLEL
-                     IERTGTEVVVLARYMQVLSAELSARLSRRCINIHHSFLPGFKGAKPYHQAYERGVKLM
-                     GATAHYVTDDLDEGPIIEQDVERISHSDSPEDLVRKGRDIERRVLARALRYHLDDRVL
-                     LNGHKTVVFPD"
-     CDS             5628..6872
-                     /note="ORF414"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /protein_id="CAB39402.1"
-                     /db_xref="UniProtKB/TrEMBL:Q9X7F8"
-                     /translation="MSPEPFPWLGNKRLCIEIGCTAFTGLTLGVGSNTLNDGLSLSAS
-                     AGVGLMSGKSGASVGSAFVRTGFAYEAVPGSEGEIVDAYGARWHRGVEGSSLVQAPLA
-                     GADLHAIHAYSPATPRLWLQISDRADMFELADAPLPGLVASCFALRGGWSFLEECADR
-                     SPIAFALLDWAEEQISSFYIQLIRSLAHDPNLIIYHDELGTDLSSYFSERDFRDLILP
-                     RMRRILERIRSTTSAPIGVFIRGSALSALSSVAELGVAVLGVDCNARGNTVKVLRNLL
-                     GYGVVLHGAADLVALGRALTDGDMRGTAILASEFAEARPAIAAPSAVLTSDADLSAAA
-                     RGSSFLSVLDPGDLEVLGRIGPERRIIERAMMCFPSGVERAPAHVVALERPRILAPAG
-                     ALPRHVHMEMAGSSQADVGGKL"
      gene            6897..8750
                      /gene="cmuA"
      CDS             6897..8750
@@ -151,19 +73,6 @@ FEATURES             Location/Qualifiers
                      DMYERNERFVTDMLKAAKTMDAAMPLLTPLLESSGSDGGPTGTVIVGLVRGNTQDIGK
                      NLVCLMLKANGFKVIDLGKNVKPEQFIETAEREGAVAIGMSVMTNSSTVYVEKVAEML
                      KSQGKADKYLLMMGGAAANRGVAEKFGVRYGLDANAAVSLVRDHVESRAAA"
-     CDS             9164..>9658
-                     /note="ORF165"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical protein"
-                     /protein_id="CAB39404.1"
-                     /db_xref="HSSP:Q8U8Z6"
-                     /db_xref="InterPro:IPR011059"
-                     /db_xref="UniProtKB/TrEMBL:Q9X7G0"
-                     /translation="MEAGSTLMTEVLLNGRLAPFGGGNPFDVIEDGALVVGEGHIRWI
-                     GNRRQLPEEFRSCRTHDLGNRLVTPGLVECHTHLIFEGDRGAERVERCQGRATYAEQL
-                     ERGGAIHSTVRATRNADYNRLYTQANERICAFEARGVTSIEIKSGYGLDIDTELKLLR
-                     IGRKL"
 ORIGIN      
         1 cgcctccacg ctgcaaccgg cggccctgaa tcataaaacc ataaatcctg caacggcttg
        61 gttcggttca caccctagag cggtaaccga tcaggtgggg ccataggcat cgtggccagc

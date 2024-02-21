@@ -43,50 +43,7 @@ FEATURES             Location/Qualifiers
                      /strain="NCIMB 13064"
                      /db_xref="taxon:1829"
                      /plasmid="pRTL1"
-     mobile_element  309..1723
-                     /mobile_element_type="insertion sequence:IS2112"
-     gene            complement(324..1535)
-                     /gene="tnpA"
-                     /note="1526"
-     CDS             complement(324..1526)
-                     /gene="tnpA"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="putative transposase"
-                     /protein_id="AAC15836.1"
-                     /translation="MRETHTHAWVGIDAGKGHHWAAVVDEAGLIVWSHKIINDETAIL
-                     HALSEILALADELHWAVDISGTSSTLLLALLAAHDQSAVYVPGRTVNRMSGAYRGEAK
-                     TDARDAYVIAETARHRHDLSVLIPPAQLAAELALLTSHRTDLVADRVRLINRLRDTLT
-                     GVFPALERAFDFGRHKGALVLLTGFQTPRAIRRRGRTRLSLWLGKRGVRGADGVAEIA
-                     WEAASAQNVVLPGEAVAAQLVADIADRVLAVDVQLARIDAQIGETFRRHPQAAVIESM
-                     PGIGPILGAEFVVAAGDMSAYSDAGHLASAAGLVPVPRDSGRRTGNMHRPKRYSRRLR
-                     RVFYLSAQTSIIKDGPNREFYLQKRSEGMRHVQAVIALARRQVNVIWALLRDDRLFIV
-                     DAPALRTA"
-     regulatory      complement(1529..1535)
-                     /regulatory_class="ribosome_binding_site"
-                     /gene="tnpA"
-     gene            6363..6929
-                     /gene="invA"
-     regulatory      6363..6366
-                     /regulatory_class="ribosome_binding_site"
-                     /gene="invA"
-     CDS             6369..6929
-                     /gene="invA"
-                     /note="invertase"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="putative site specific recombinase"
-                     /protein_id="AAC15837.1"
-                     /translation="MSIIGYARVSTLEQNPELQQHALRQAGAIRIFTDYESGSKTQRP
-                     QLTECLNYLRENDGDVLVVWKLDRLGRSVRHVIDTVHNLGERGIAFRSLTEGFDTTTA
-                     GGEFLFHIMAALAQMERRMIVERTHAGLEAARRQGRHGGRPTVMTPERTELARTLREQ
-                     GKSLDAIASTLGVGRSSISRALTSSG"
-     repeat_region   7185..8225
-                     /note="region rich in inverted and direct repeats"
      gene            8229..9125
-                     /gene="dhaA"
-     regulatory      8229..8235
-                     /regulatory_class="ribosome_binding_site"
                      /gene="dhaA"
      CDS             8244..9125
                      /gene="dhaA"
@@ -100,39 +57,6 @@ FEATURES             Location/Qualifiers
                      LIIDQNAFIEGALPKCVVRPLTEVEMDHYREPFLKPVDREPLWRFPNELPIAGEPANI
                      VALVEAYMNWLHQSPVPKLLFWGTPGVLIPPAEAARLAESLPNCKTVDIGPGLHYLQE
                      DNPDLIGSEIARWLPAL"
-     regulatory      9534..9539
-                     /regulatory_class="ribosome_binding_site"
-     CDS             9543..10655
-                     /note="Orf4"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical alcohol dehydrogenase"
-                     /protein_id="AAC15839.1"
-                     /translation="MMKTQAAILWERGGPWSVEEIDLDPPRHGEVLVEMGGSGLCHSD
-                     EHVLTGDLPWPLPMVGGHEGAGTVVEVGPGVEGLAAGDRVIFGFLPACGRCAACSAGM
-                     QNLCELGQYLGDGTQISDHTSRHHARGQDLGLMCLLGTFAQHTVVSEANCIKIDDDIA
-                     LDKACLLGCGVVTGWGSAVFTGGVKPGDTSVVVGVGGIGINAVQGAAMNGSQYVVAVD
-                     PVEFKRTKALELGATHAVATSEEAQALVADLTYGRGANVVVNTTGVGEGDQIGASLAM
-                     TAKRGTVVVTNLHRATEETVKMSALDLVLMEKRVVGSLFGSANPRLHIPKMLGLYRSG
-                     HLKLDELATRSYKLDEVNTGYQDMREGRNLRGVITF"
-     regulatory      10675..10681
-                     /regulatory_class="ribosome_binding_site"
-     CDS             10687..12135
-                     /note="Orf5"
-                     /codon_start=1
-                     /transl_table=11
-                     /product="hypothetical aldehyde dehydrogenase precursor"
-                     /protein_id="AAC15840.1"
-                     /translation="MSMQYDSLFIGGDWIAPSSSKRITAISASTEQPIGSVPEAQEAD
-                     VDAAVAAARRALDDPAGWAHWAPAARAAAIERLADVLERRAEDVVQCVSAQNGMPVAV
-                     ARQLEGVFPVVLLRYYAGLARDTATEETRPGLFGGSTLVCREPLGVVGAIVPWNFPQT
-                     LAAFKYAPALAAGCTLVIKPSPETVLDAFVFAEAVAEAGIPAGVVNVVPGGREVGAYL
-                     VEHPGVDKISFTGSTAAGRSIGEVCGRLLRPVTLELGGKSAAIVLDDAGLDLQTMSEK
-                     LFAATLLNNGQTCFLGTRVLAPRSRYSEIVDLFTDLAGTLKVGDALDDTTQIGPMATA
-                     AQRDRVEQYIAKGLGDGARITIGGGRPADQDKGWFVEPTIFADVENNHTIAQEEIFGP
-                     VLSVIPYSDEDEAVRIANDSDFGLGGTVWTNDPDRGLALAKRVQTGTIGINGYLPEPT
-                     APFGGVKASGLGRELGPEALSNYQQLKSIYLD"
-ORIGIN      
         1 gtatcattcg atagaatgaa tcaataaaga atcaccgacg agggggaatg aaaatgacga
        61 tcaccgtata caccaagccc gtatgtgcgc aatgcaatgc cacttaccgc gcactcgaca
       121 aagcgggaat cgaatacgac ttcatcgaca tcaccgaaga cgcacaggcc cgcgattacg
