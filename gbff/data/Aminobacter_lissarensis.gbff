@@ -48,7 +48,7 @@ FEATURES             Location/Qualifiers
                      /gene="cmuC"
                      /note="methyltransferase"
                      /codon_start=1
-                     /transl_table=11 
+                     /transl_table=11
                      /product="CmuC"
                      /protein_id="AAW22508.1"
                      /translation="MTAVWSQRAGDIAARRMVVDIGTTSLTGVRSAAVAGARRGFASH
@@ -78,7 +78,7 @@ FEATURES             Location/Qualifiers
                      VGDLYERNERFVTDMLKAAKTMDKAMPILTPLLEANGGGDGPTGTVVVGLVRGNTQDI
                      GKNLVCLMLKANGFKVIDMGKNVKPEQFIEMAEKENAVAIGMSVMTNSSSVYVQKVKE
                      MLDEQGKGGKYLLMFGGAAANIGLAREFGIEYGIDANAAVQLVRDHVSRKMAA"
-    ORIGIN      
+ORIGIN      
         1 tcggcgattg cacaatcggc ggaccgcttg ggtcccatac cgggcttatc gttgggagta
        61 ttttttacga caatcattcc attgtcaccg atgccttctc cggcgccttc gataaggaca
       121 aggcagccgg tctgattgac cgtgtcaacg ggctggcgtc gcagtacggc gtgcagatgg

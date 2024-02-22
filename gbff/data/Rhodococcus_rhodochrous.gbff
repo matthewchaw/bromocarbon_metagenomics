@@ -45,6 +45,9 @@ FEATURES             Location/Qualifiers
                      /plasmid="pRTL1"
      gene            8229..9125
                      /gene="dhaA"
+     regulatory      8229..8235
+                     /regulatory_class="ribosome_binding_site"
+                     /gene="dhaA"
      CDS             8244..9125
                      /gene="dhaA"
                      /codon_start=1
@@ -57,6 +60,7 @@ FEATURES             Location/Qualifiers
                      LIIDQNAFIEGALPKCVVRPLTEVEMDHYREPFLKPVDREPLWRFPNELPIAGEPANI
                      VALVEAYMNWLHQSPVPKLLFWGTPGVLIPPAEAARLAESLPNCKTVDIGPGLHYLQE
                      DNPDLIGSEIARWLPAL"
+ORIGIN      
         1 gtatcattcg atagaatgaa tcaataaaga atcaccgacg agggggaatg aaaatgacga
        61 tcaccgtata caccaagccc gtatgtgcgc aatgcaatgc cacttaccgc gcactcgaca
       121 aagcgggaat cgaatacgac ttcatcgaca tcaccgaaga cgcacaggcc cgcgattacg

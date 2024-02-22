@@ -21,18 +21,6 @@ FEATURES             Location/Qualifiers
                      /mol_type="genomic DNA"
                      /strain="DM11"
                      /db_xref="taxon:29541"
-     regulatory      565..570
-                     /regulatory_class="minus_35_signal"
-                     /note="putative"
-     regulatory      588..593
-                     /regulatory_class="minus_10_signal"
-                     /note="putative"
-     mRNA            600..>1525
-                     /experiment="experimental evidence, no additional details
-                     recorded"
-     regulatory      711..713
-                     /regulatory_class="ribosome_binding_site"
-                     /note="putative"
      gene            722..1525
                      /gene="dcmA"
      CDS             722..1525
@@ -49,19 +37,6 @@ FEATURES             Location/Qualifiers
                      HWYAYTLRLGGGAFHWTIFAPMIYGYDKDFTVEVTKGRFLLYESFDILEKYWLKDGDY
                      LCGNTLSYPDLATCQDLVSHDAGRIIPTSMWDSHPKVKAWFARMMDREHAKTVSAWQY
                      ENVRKYLDDGVKLNFQRKTAVLKGTEVYSGHNNGIIYNGDDDSFVTQHG"
-     stem_loop       1550..1584
-                     /note="putative"
-                     /function="putative transcription termination site of
-                     dcmA"
-     CDS             1636..>2283
-                     /note="putative"
-                     /codon_start=1
-                     /transl_table=11
-                     /protein_id="AAA25444.1"
-                     /translation="MQSFLKLLLSYRIAKMNTTIETEVNYLDQSVESSLYRNGKVYTF
-                     RDTDGNDSNWYGAKLTPQKVVINDAREKNHTIDANGFELINAPLLKENLDFLDLNDVV
-                     KNYYPQCEDILKKATHASEVYAFDHNIRWKSANEQQTQITDGQQIQQPIYVMHGDYTI
-                     SSVEDRIYALGKPLGDNDTLKKFLEPGAALIPHNVISKIFDEKKRFSIINVWRNID"
 ORIGIN      
         1 tctagagggt tcaacctaaa taaaacaata ttagtataca aatatcactc tatcactaac
        61 cttgtcgctt ataagttaca agctgaacat aaatattgac catcattgta taaccatgta
