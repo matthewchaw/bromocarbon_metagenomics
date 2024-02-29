@@ -1,0 +1,6 @@
+prefetch PRJNA870587
+./sra_to_fasta_3.sh ../data/PRJNA850820/sra
+mv SR* ../data/PRJNA850820/fasta
+./make_db.sh ../data/PRJNA850820/fasta
+blastn -db db  -query ../../../query_fasta.fasta -out blastn_output.txt -outfmt 6
+
